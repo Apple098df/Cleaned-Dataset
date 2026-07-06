@@ -56,7 +56,5 @@ data-cleaning-project/
 | Gender        | M, male, Male        | Male                  |
 | Age           | 25, N/A, 26          | 25, 26 (imputed)      |
 
----
 
-Would you like me to also **write the actual Python cleaning script** (with `pandas`) so you can drop it straight into your repo?
  
